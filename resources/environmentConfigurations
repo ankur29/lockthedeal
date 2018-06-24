@@ -1,0 +1,11 @@
+###QA Application Environment Details###
+qa.Url=http://qa.lockthedeal.com/
+qa.loginPageUrl=http://qa.lockthedeal.com/login/auth
+
+###Production Environment Details###
+prod.Url=http://lockthedeal.com/login/auth
+prod.loginPageUrl=http://lockthedeal.com/login/auth
+
+###Browser Details###
+browser.Name=Mozilla
+
